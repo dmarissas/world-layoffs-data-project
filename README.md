@@ -1,30 +1,41 @@
-World Layoffs Data Analysis (2020 - 2023)
-This portfolio project explores the layoffs data from companies worldwide between 2020 and early 2023. The dataset includes information on companies, locations, countries, industries, and the total number of employees affected by layoffs during this period.
+# 📊 World Layoffs Data Analysis (2020 - 2023)
 
-Project Overview
-The aim of this project is to analyze layoff trends, identify patterns across countries, companies, industries, and years, and provide insight into the progression of layoffs month-by-month.
+This portfolio project explores global layoff trends from companies around the world between 2020 and early 2023. Using a dataset that provides information on companies, locations, countries, industries, and the total number of employees laid off, this project aims to uncover patterns and insights from recent layoffs.
 
-Steps and Process
-Data Cleaning
+## 📝 Project Overview
 
-Removed duplicates to ensure data accuracy.
-Standardized data formats to maintain consistency.
-Filled or removed blank values to handle incomplete entries.
-Exploratory Data Analysis (EDA)
+The objective of this project is to analyze layoff patterns, understand which countries, industries, and companies were most affected, and visualize the data to reveal the progression of layoffs over time.
 
-Analyzed layoffs by country, company, industry, and year to identify where layoffs were most significant.
-Implemented a rolling sum to observe the progression and peaks in layoffs across months.
-Ranked companies and years by the highest layoffs to highlight trends.
-Insights and Findings
-Summarize some key findings here. Examples could include:
+## 🛠️ Steps and Process
 
-The country or industry with the highest layoffs.
-The most affected year and month.
-Patterns observed in industries over the three-year span.
-Tools and Technologies Used
-MySQL : SQL queries were used in data cleaning processing.
+1. **Data Cleaning**
+   - Removed duplicates to avoid redundant data.
+   - Standardized data formats for consistency.
+   - Handled missing data by filling or removing blanks.
 
-Future Work
-Outline any additional analyses or improvements you plan to make, such as:
-Expanding the dataset to cover 2024 data.
-Including predictive modeling to forecast layoffs in the upcoming years
+2. **Exploratory Data Analysis (EDA)**
+   - Identified the countries, companies, industries, and years with the highest number of layoffs.
+   - Implemented a rolling sum to observe monthly layoff trends.
+   - Ranked companies and years based on the highest layoffs to pinpoint key periods and entities.
+
+3. **Data Visualization**
+   - Visualized EDA findings using Tableau to present clear insights on trends, patterns, and progression of layoffs over time.
+
+## 🛠️ Tools and Technologies Used
+
+- **MySQL**: for data storage and processing.
+- **Tableau**: for creating data visualizations and dashboards.
+
+## 🔍 Insights and Findings
+
+Summarize some key findings here, such as:
+- Top affected countries and industries.
+- Key months or years with peak layoffs.
+- Patterns that reveal broader economic or industry trends.
+
+## 🚀 Future Work
+
+Include any ideas for expanding the analysis, like:
+- Adding 2024 data to update the trends.
+- Using predictive modeling to forecast future layoffs.
+- Exploring additional datasets to enrich the analysis.
