@@ -6,6 +6,26 @@ This portfolio project explores global layoff trends from companies around the w
 
 The objective of this project is to analyze layoff patterns, understand which countries, industries, and companies were most affected, and visualize the data to reveal the progression of layoffs over time.
 
+## 🌍 Dataset Overview: Global Layoffs (2020–2023)
+This dataset provides insights into global layoffs from 2020 to early 2023, sourced from a public Kaggle dataset. The data captures company-specific layoff details across industries and countries, offering a comprehensive view of workforce reductions worldwide.
+
+Data Composition
+The dataset contains a single table with 1,995 records. Each record represents a layoff event with the following attributes:
+
+| **Column Name**          | **Description**                          | **Data Type** |
+|---------------------------|------------------------------------------|---------------|
+| `company`                 | Name of the company                     | text          |
+| `location`                | Company location                        | text          |
+| `industry`                | Industry of the company                 | text          |
+| `total_laid_off`          | Total number of employees laid off      | integer       |
+| `percentage_laid_off`     | Percentage of workforce laid off        | text          |
+| `date`                    | Date of layoff announcement             | date          |
+| `stage`                   | Company's business stage               | text          |
+| `country`                 | Country where the layoffs occurred      | text          |
+| `funds_raised_millions`   | Funds raised by the company in millions | integer       |
+
+This structured data enables an analysis of layoffs by company, industry, country, and stage of business, providing a basis for understanding patterns and trends in workforce reductions globally.
+
 ## 🛠️ Steps and Process
 
 1. **Data Cleaning**
@@ -30,7 +50,7 @@ The objective of this project is to analyze layoff patterns, understand which co
 
 Summarize some key findings here, such as:
 - Top affected countries and industries.
-- Key months or years with peak layoffs.
+- Key years with peak layoffs.
 - Patterns that reveal broader economic or industry trends.
 
 ## 🚀 Future Work
