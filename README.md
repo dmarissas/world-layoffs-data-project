@@ -10,7 +10,7 @@ The objective of this project is to analyze layoff patterns, understand which co
 This dataset provides insights into global layoffs from 2020 to early 2023, sourced from a public Kaggle dataset. The data captures company-specific layoff details across industries and countries, offering a comprehensive view of workforce reductions worldwide.
 
 Data Composition
-The dataset contains a single table with 1,995 records. Each record represents a layoff event with the following attributes:
+The dataset contains a single table named layoffs with 1,995 records. Each record represents a layoff event with the following attributes:
 
 | **Column Name**          | **Description**                          | **Data Type** |
 |---------------------------|------------------------------------------|---------------|
