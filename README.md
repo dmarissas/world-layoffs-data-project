@@ -40,6 +40,7 @@ This structured data enables an analysis of layoffs by company, industry, countr
 
 3. **Data Visualization**
    - Visualized EDA findings using Tableau to present clear insights on trends, patterns, and progression of layoffs over time.
+   - Tableau Visualization link: https://public.tableau.com/views/TotalLayoffs/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🛠️ Tools and Technologies Used
 
