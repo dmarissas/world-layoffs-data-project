@@ -39,7 +39,7 @@ This structured data enables an analysis of layoffs by company, industry, countr
    - Ranked companies and years based on the highest layoffs to pinpoint key periods and entities.
 
 3. **Data Visualization**
-   - Visualized EDA findings using Tableau to present clear insights on trends, patterns, and progression of layoffs over time.
+   - Created Tableau visualizations showcasing EDA findings, including the top 5 countries most impacted by layoffs, the top 10 affected industries, a world map of total layoffs, and a timeline of layoffs from 2020 to early 2023.
    - Tableau Visualization link: https://public.tableau.com/views/TotalLayoffs/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🛠️ Tools and Technologies Used
